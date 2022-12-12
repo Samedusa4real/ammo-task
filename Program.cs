@@ -10,6 +10,7 @@ int ammo = 30;
 while (ammo > -1)
 {
     string order = Console.ReadLine();
+    Console.Clear();
     switch (order)
     {
         case "1":
