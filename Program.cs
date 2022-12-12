@@ -7,7 +7,7 @@ Console.WriteLine("--------------CHOOSE--------------");
 int ammo = 30;
 
 
-while (ammo > 0)
+while (ammo > -1)
 {
     string order = Console.ReadLine();
     switch (order)
