@@ -54,7 +54,7 @@ while (ammo > -1)
 
         case "5":
             {
-                Console.WriteLine("QUITING...");
+                Console.WriteLine("QUITTING...");
                 return;
             }
             break;
